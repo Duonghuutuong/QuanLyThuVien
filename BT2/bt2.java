@@ -8,7 +8,7 @@ public class HoTen {
         String hoTen = scanner.nextLine();
 
         System.out.println("Xin chao: " + hoTen);
-
+        sytem.out.println("Chao mung ban den voi Java!");
         scanner.close();
     }
 }
